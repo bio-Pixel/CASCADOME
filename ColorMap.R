@@ -17,3 +17,11 @@ organ_cols <- c(
 )
 
 exp_gra =  c("white","white","gray95","#EC8E2D","#AF322E","darkred")
+
+color =colorRampPalette(c(
+           "#3B4CC0",
+           "#6FAFD6",
+           "#F7F7F7",
+           "#F39B7F",
+           "#B40426"
+         ))(100)
